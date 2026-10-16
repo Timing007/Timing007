@@ -107,7 +107,7 @@ I enjoy problems where a bit of code can make something <b>more accessible, more
 ---
 
 <p align="center">
-<i>“Building technology for problems worth solving.”</i>
+<i>“Change is the only constant”</i>
 </p>
 
 <p align="center">
